@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kiko Now
+name: TurboCE's homepage
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 이런 저런 개발자의 홈페이지
 
 #
 # Flags below are optional
@@ -38,11 +38,10 @@ paginate: 5
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email:
+  email: turboce@gmail.com
   facebook:
   flickr:
-  github: AWEEKJ/kiko-now
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  github: TurboCE/
   instagram:
   linkedin:
   pinterest:
